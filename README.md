@@ -19,10 +19,7 @@ Target Users: The target users for the “Cook Book” app are individuals who e
 are looking for inspiration and new recipes to try. This includes both novice cooks who are just
 starting their culinary journey and experienced cooks who want to explore different cuisines.
 
-User Interface: The user interface of the “Cook Book” app will be simple and intuitive. It will
-feature a list of cuisines on the home screen. Upon selecting a cuisine, the user will be
-presented with a list of recipes associated with that cuisine. Each recipe will include ingredients,
-preparation steps.
+
 <img width="154" alt="Screenshot 2024-04-06 at 3 44 55 PM" src="https://github.com/Vannala-Rachana/Cookbook/assets/87081501/dcc48f34-aaea-47ea-a064-4de53967678a">
 
 <img width="154" alt="Screenshot 2024-04-06 at 3 44 34 PM" src="https://github.com/Vannala-Rachana/Cookbook/assets/87081501/eacac9aa-a0c9-449f-86e1-324b58881d23">
